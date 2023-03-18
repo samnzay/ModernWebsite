@@ -1,0 +1,14 @@
+{
+  "name": "modernwebsite",
+  "version": "1.0.0",
+  "description": "Responsive Modern Website with Html CSS and JS Fake Hosting site",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Samuel Nzayisenga @ Brain Works Africa",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
